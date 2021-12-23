@@ -97,7 +97,10 @@ PROJECT
 #project .card img {
   width: 100%;
 }
-
+#project .card video {
+  width:320px;
+  height: 300px;
+}
 #project .card-title {
   font-weight: bold;
 }
